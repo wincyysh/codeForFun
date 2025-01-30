@@ -1,0 +1,1 @@
+# This program can extract text from image and put text in txt file
